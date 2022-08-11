@@ -12,4 +12,4 @@
 - Move Gallery
 - Import pictures from the gallery
 
-## 4. Operation screen
+## 4. Display
